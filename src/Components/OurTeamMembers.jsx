@@ -1,27 +1,27 @@
 export default function OurTeamMembers(){
     const teamMembers = [
         {
-            src: "./assets/images/team/team-01.png",
+            src: "/assets/images/team/team-01.png",
             name: "Melissa Tatcher",
             expertise: "Marketing Expert",
         },
         {
-            src: "./assets/images/team/team-02.png",
+            src: "/assets/images/team/team-02.png",
             name: "Stuard Ferrel",
             expertise: "Digital Marketer",
         },
         {
-            src: "./assets/images/team/team-03.png",
+            src: "/assets/images/team/team-03.png",
             name: "Eva Hudson",
             expertise: "Creative Designer",
         },
         {
-            src: "./assets/images/team/team-04.png",
+            src: "/assets/images/team/team-04.png",
             name: "Jackie Sanders",
             expertise: "Founder of Facebook",
         },
         {
-            src: "./assets/images/team/team-04.png",
+            src: "/assets/images/team/team-04.png",
             name: "Jackie Sanders",
             expertise: "Founder of Facebook",
         },

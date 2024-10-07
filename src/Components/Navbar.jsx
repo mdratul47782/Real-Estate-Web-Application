@@ -65,7 +65,7 @@ const HomeLink = () => (
             <div className="relative -mx-4 flex items-center justify-between">
               <div className="flex w-full items-center justify-between px-4 py-3">
                 <a href="index.html" className="navbar-logo block w-60 max-w-full px-4">
-                  <img src="assets/images/logo/logo.svg" alt="logo" className="header-logo h-12" />
+                  <img src="/assets/images/logo/logo.svg" alt="logo" className="header-logo h-12" />
                 </a>
   
                 <ul className="hidden lg:flex ">

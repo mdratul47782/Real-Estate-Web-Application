@@ -3,7 +3,7 @@ import React from 'react';
 const LogoSection = () => (
   <div className="mb-10 w-full">
     <a href="#" className="mb-6 inline-block  max-h-[100px]">
-      <img src="assets/images/logo/logo.svg" alt="logo" className="max-w-full" />
+      <img src="/assets/images/logo/logo.svg" alt="logo" className="max-w-full" />
     </a>
     <p className="mb-8 lg:max-w-[270px] text-base text-gray-7">
       We create digital experiences for brands and companies by using technology.
@@ -62,7 +62,7 @@ const LatestBlogSection = () => (
       {['I think really important to design with...', 'Recognizing the need is the primary...'].map((title, index) => (
         <a href="blog-details.html" className="group flex items-center gap-[22px]" key={index}>
           <div className="overflow-hidden rounded">
-            <img src={`./assets/images/blog/blog-footer-0${index + 1}.jpg`} alt="blog" />
+            <img src={`/assets/images/blog/blog-footer-0${index + 1}.jpg`} alt="blog" />
           </div>
           <span className="max-w-[180px] text-base text-gray-7 group-hover:text-white">{title}</span>
         </a>
